@@ -1,0 +1,8 @@
+2020-02-25 10:04:27 DEBUG App:19 - for house construction press 1
+2020-02-25 10:04:27 DEBUG App:20 - for Interset Calculation construction press 2
+2020-02-25 10:04:33 DEBUG App:41 - give principalamount
+2020-02-25 10:04:35 DEBUG App:43 - give rateofinterset
+2020-02-25 10:04:36 DEBUG App:45 - give years
+2020-02-25 10:04:37 DEBUG App:47 - To calculate Simple Interest press 1
+2020-02-25 10:04:37 DEBUG App:48 - To calculate Compound Interest press 2
+2020-02-25 10:04:39 DEBUG App:56 - 154.29120000000003
